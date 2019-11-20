@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-helloworld/static/js/main.0d34e11f.chunk.js",
+    "main.js.map": "/react-helloworld/static/js/main.0d34e11f.chunk.js.map",
+    "runtime-main.js": "/react-helloworld/static/js/runtime-main.4760f19f.js",
+    "runtime-main.js.map": "/react-helloworld/static/js/runtime-main.4760f19f.js.map",
+    "static/js/2.84e780f3.chunk.js": "/react-helloworld/static/js/2.84e780f3.chunk.js",
+    "static/js/2.84e780f3.chunk.js.map": "/react-helloworld/static/js/2.84e780f3.chunk.js.map",
+    "index.html": "/react-helloworld/index.html",
+    "precache-manifest.6bec8abab510d8d39d8bbf88f6511174.js": "/react-helloworld/precache-manifest.6bec8abab510d8d39d8bbf88f6511174.js",
+    "service-worker.js": "/react-helloworld/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4760f19f.js",
+    "static/js/2.84e780f3.chunk.js",
+    "static/js/main.0d34e11f.chunk.js"
+  ]
+}
